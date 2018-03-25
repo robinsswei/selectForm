@@ -1,0 +1,184 @@
+[
+	{
+		"title": "Job Title",
+		"value": "jobTitle",
+		"select": [
+			{
+				"options": [
+					{
+						"title": "Present",
+						"value": "present"
+					}, {
+						"title": "Past",
+						"value": "past"
+					}, {
+						"title": "Present & Past",
+						"value": "presentPast"
+					}
+				]
+			}
+		]
+	}, 
+	{
+		"title": "Company",
+		"value": "company",
+		"select": [
+			{
+				"options": [
+					{
+						"title": "Present",
+						"value": "present"
+					}, {
+						"title": "Past",
+						"value": "past"
+					}, {
+						"title": "Present & Past",
+						"value": "presentPast"
+					}
+				]
+			}
+		]
+	}, 
+	{
+		"title": "Location",
+		"value": "location",
+		"select": [
+			{
+				"options": [
+					{
+						"title": "Present",
+						"value": "present"
+					}, {
+						"title": "Past",
+						"value": "past"
+					}, {
+						"title": "Ever",
+						"value": "ever"
+					}
+				]
+			},
+			{
+				"options": [
+					{
+						"title": "Near",
+						"value": "near"
+					}, {
+						"title": "Exactly",
+						"value": "exactly"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Likes",
+		"value": "likes",
+		"select": []
+	},
+	{
+		"title": "Education",
+		"value": "education",
+		"select": []
+	},
+	{
+		"title": "Friends with",
+		"value": "friends-with",
+		"select": [
+			{
+				"options": [
+					{
+						"title": "Me",
+						"value": "me"
+					}, {
+						"title": "Not me",
+						"value": "not-me"
+					}, {
+						"title": "My Friends",
+						"value": "my-friends"
+					}, {
+						"title": "Someone",
+						"value": "someone"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Group Member",
+		"value": "group-member",
+		"select": []
+	},
+	{
+		"title": "Age",
+		"value": "age",
+		"select": [
+			{
+				"options": [
+					{
+						"title": "Is",
+						"value": "is"
+					}, {
+						"title": "Less than",
+						"value": "less-than"
+					}, {
+						"title": "Greater than",
+						"value": "greater-than"
+					}
+				]
+			}
+		]
+	}, 
+	{
+		"title": "Gender",
+		"value": "gender",
+		"select": [{
+				"title": "male",
+				"value": "male"
+			}, {
+				"title": "female",
+				"value": "female"
+			}
+		]
+	},
+	{
+		"title": "Speaks",
+		"value": "speaks",
+		"select": []
+	},
+	{
+		"title": "Name",
+		"value": "name",
+		"select": []
+	},
+	{
+		"title": "Visited",
+		"value": "visited",
+		"select": []
+	},
+	{
+		"title": "Relationship Status",
+		"value": "visited",
+		"select": [{
+			"title": "Single",
+			"value": "single"
+		}, {
+			"title": "In any relationship",
+			"value": "in-any-relationship"
+		}, {
+			"title": "Engaged",
+			"value": "engaged"
+		}, {
+			"title": "Married",
+			"value": "married"
+		}, {
+			"title": "Open relationship",
+			"value": "open-relationship"
+		}, {
+			"title": "It's complicated",
+			"value": "its-complicated"
+		}, {
+			"title": "wvalueowed",
+			"value": "wvalueowed"
+		}]
+	},
+]
